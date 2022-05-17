@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801984345385",
+    "project_id": "services-booking-15938",
+    "storage_bucket": "services-booking-15938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801984345385:android:f33e41544686fcbb95f338",
+        "android_client_info": {
+          "package_name": "codecanyon.servpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801984345385-fb1qdv5pbpu93h2pn7rsbs7ou8ucl19s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO0tA021NaUmA0TJOx6oDJFlBV7ulsKU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801984345385-fb1qdv5pbpu93h2pn7rsbs7ou8ucl19s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
